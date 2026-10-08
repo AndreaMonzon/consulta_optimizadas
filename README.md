@@ -1,8 +1,8 @@
-# 🧠 Consultas SQL Optimizadas
+#  Consultas SQL Optimizadas
 
 Este repositorio contiene un conjunto de consultas SQL diseñadas para resolver problemas comunes en el análisis de datos fiscales y financieros, con un enfoque en **optimización de performance**, **claridad** y **mantenibilidad**.
 
-## 📌 Objetivo
+##  Objetivo
 
 Centralizar y documentar consultas SQL optimizadas que aplican principalmente a entornos de Oracle, utilizadas en procesos reales relacionados con:
 
@@ -17,7 +17,7 @@ Centralizar y documentar consultas SQL optimizadas que aplican principalmente a 
 - SQL Análisis con funciones de ventana (`LAG`, `ROW_NUMBER`, etc.)
 - Vistas analíticas y joins complejos
 
-## 📂 Contenido
+##  Contenido
 
 | Archivo SQL                             | Descripción breve                                                  |
 |----------------------------------------|--------------------------------------------------------------------|
@@ -29,13 +29,13 @@ Centralizar y documentar consultas SQL optimizadas que aplican principalmente a 
 
 
 
-## 💡 Notas adicionales
+##  Notas adicionales
 
 - Las consultas fueron aplicadas en un contexto real de análisis fiscal.
 - Se utilizan funciones analíticas y subqueries correlacionadas para obtener últimos valores o rectificativas.
 - Los scripts están organizados por propósito y tipo de operación.
 
-## 🙋‍♀️ Sobre mí
+##  Sobre mí
 
 **Andrea Monzón**  
 Junior Data Engineer  
@@ -44,4 +44,4 @@ Junior Data Engineer
 
 
 
-💬 *¡Gracias por visitar este repo! Si te resulta útil, no dudes en darle una estrella ⭐ o conectarte conmigo en LinkedIn.*
+Gracias por visitar este repo! Si te resulta útil, no dudes en darle una estrella o conectarte conmigo en LinkedIn.
